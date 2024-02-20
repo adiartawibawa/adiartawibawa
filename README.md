@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adiartawibawa
 - 👀 I’m interested in Web Technology
-- 🌱 I’m currently learning Laravel Framework, Vue JS & Mapping with Googlemaps
+- 🌱 I’m currently working with Laravel
 - 📫 How to reach me surat.buat.adi@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
